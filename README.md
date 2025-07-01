@@ -6,7 +6,7 @@ A minimal Rails 8 application to reproduce WAR deployment issues under JRuby 10 
 
 This app serves as a reproduction case for issues encountered when generating and deploying `.war` files from a JRuby-based Rails 8 application using Warbler (latest `main` branch). See related issue:
 
-> _[Link to GitHub issue once filed]_
+> https://github.com/jruby/warbler/issues/560
 
 ## Environment
 
